@@ -1,0 +1,1 @@
+import{t as e}from"./AppExplore-D0qgB3To.js";import{E as t,m as n}from"./pinia-DIonrUBK.js";var r={__name:`DiscoverView`,setup(r){return(r,i)=>(t(),n(e))}};export{r as default};
