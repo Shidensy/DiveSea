@@ -1,0 +1,1 @@
+var e=`/DiveSea/nav/logo.svg`;export{e as t};

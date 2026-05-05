@@ -1,1 +1,0 @@
-var e=`/DiveSea/cards/1.png`;export{e as t};
