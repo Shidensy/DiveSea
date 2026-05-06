@@ -1,0 +1,1 @@
+import{T as e,c as t}from"./_plugin-vue_export-helper-BEV1p1Ki.js";import{t as n}from"./AppExplore-Cq-oHL0Q.js";var r={__name:`DiscoverView`,setup(r){return(r,i)=>(e(),t(n))}};export{r as default};
