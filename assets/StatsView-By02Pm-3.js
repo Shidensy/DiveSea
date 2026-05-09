@@ -1,1 +1,0 @@
-import{T as e,c as t}from"./_plugin-vue_export-helper-BEV1p1Ki.js";import{t as n}from"./AppCollection-B2zwuf-L.js";var r={__name:`StatsView`,setup(r){return(r,i)=>(e(),t(n))}};export{r as default};
